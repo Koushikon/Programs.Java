@@ -8,3 +8,5 @@ Run CMD->Type "javac <file name.java>"
 
 To run java program
 In CMD->Type "java <file name only>"
+
+@Tested on Java 13 JDk
