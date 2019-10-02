@@ -1,0 +1,10 @@
+@Java
+
+After going to java program folder where you save this java files...
+Type CMD on Address bar->
+
+For compile java program file
+Run CMD->Type "javac <file name.java>"
+
+To run java program
+In CMD->Type "java <file name only>"
