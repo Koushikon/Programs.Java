@@ -1,5 +1,3 @@
-import java.io.*; 
-   
 class Addition{ 
        
     // adding 2 integer values. 
