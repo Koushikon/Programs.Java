@@ -1,2 +1,11 @@
+# Desktop icon
+desktop.ini
+
+# Prevent executables
+*.exe
+
+# Exclude folders
 Not_Work/
 Prog.Java-Unsetteled/
+
+# Exclude files
