@@ -3,9 +3,10 @@ desktop.ini
 
 # Prevent executables
 *.exe
+*.class
 
 # Exclude folders
-Not_Work/
-Prog.Java-Unsetteled/
+# Not_Work/
+# Prog.Java-Unsetteled/
 
 # Exclude files
